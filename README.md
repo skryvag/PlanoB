@@ -13,7 +13,7 @@ O objetivo do jogo é fazer com que o cachorro medite o máximo de tempo possív
 
 ---
 Recursos de imagem:
-- Web Stock Review (n.d.), Hungry Clipart Evening Meal: https://webstockreview.net/image/hungry-clipart-evening-meal/1834961.html, accessed 12 March 2020
-- PNGHunter (n.d.), Ninja: https://pnghunter.com/png/ninja-12/, accessed 12 March 2020
-- Devian Art (n.d.), Ninja Star Dock Icon: https://www.deviantart.com/piepiepie12345667890/art/Ninja-star-dock-icon-K-ninja-111843227, accessed 12 March 2020
+- Web Stock Review (n.d.), Hungry Clipart Evening Meal: https://webstockreview.net/image/hungry-clipart-evening-meal/1834961.html, acessado em 13 de outubro de 2020
+- PNGHunter (n.d.), Ninja: https://pnghunter.com/png/ninja-12/, acessado em 13 de outubro de 2020
+- Devian Art (n.d.), Ninja Star Dock Icon: https://www.deviantart.com/piepiepie12345667890/art/Ninja-star-dock-icon-K-ninja-111843227, acessado em 13 de outubro de 2020
 ---
