@@ -2,7 +2,7 @@
 
 # The Meditating Dog
 
-O cachorro meditador é um jogo educativo que tem como objetivo ajudar as crianças com a matemática. Ele proporciona uma abordagem divertida para memorizar as tabelas de tempos e praticar cálculos mentais rápidos. O tema ninja procura envolver os jovens estudantes no jogo.
+O The Meditating Dog é um jogo educativo que tem como objetivo ajudar as crianças com a matemática. Ele proporciona uma abordagem divertida para memorizar as tabelas de tempos e praticar cálculos mentais rápidos. O tema ninja procura envolver os jovens estudantes no jogo.
 
 O objetivo do jogo é fazer com que o cachorro medite o máximo de tempo possível para que ele fique mais sábio. Enquanto ele está meditando, ninjas inimigos tentam perturbar sua meditação. O usuário pode parar os ninjas inimigos usando um shuriken (estrela ninja); entretanto, uma pergunta matemática deve ser respondida corretamente para obter shurikens. Portanto, o usuário deve responder as perguntas matemáticas o mais rápido possível para ganhar o máximo de shurikens que puder para deter os ninjas inimigos. Quando um ninja inimigo atinge o cachorro meditador, o jogo termina e a pontuação do jogador é o QI do cachorro.
 
